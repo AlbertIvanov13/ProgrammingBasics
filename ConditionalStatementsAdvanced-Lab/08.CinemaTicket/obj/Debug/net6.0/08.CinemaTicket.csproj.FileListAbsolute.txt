@@ -1,0 +1,14 @@
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\net6.0\08.CinemaTicket.exe
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\net6.0\08.CinemaTicket.deps.json
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\net6.0\08.CinemaTicket.runtimeconfig.json
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\net6.0\08.CinemaTicket.dll
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\bin\Debug\net6.0\08.CinemaTicket.pdb
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.AssemblyInfoInputs.cache
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.AssemblyInfo.cs
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.csproj.CoreCompileInputs.cache
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.dll
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\refint\08.CinemaTicket.dll
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.pdb
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\08.CinemaTicket.genruntimeconfig.cache
+C:\PB-March 2024\ConditionalStatementsAdvanced-Lab\08.CinemaTicket\obj\Debug\net6.0\ref\08.CinemaTicket.dll

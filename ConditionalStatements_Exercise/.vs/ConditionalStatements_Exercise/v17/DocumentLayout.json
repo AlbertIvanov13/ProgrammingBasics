@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF46811E-C1F1-4059-8ED8-B5A66D9E25C9}|08.LunchBreak\\08.LunchBreak.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\08.lunchbreak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF46811E-C1F1-4059-8ED8-B5A66D9E25C9}|08.LunchBreak\\08.LunchBreak.csproj|solutionrelative:08.lunchbreak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAEE012-C153-46E0-B513-3F1DD5E39D00}|05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\05.godzillavs.kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAEE012-C153-46E0-B513-3F1DD5E39D00}|05.GodzillaVs.Kong\\05.GodzillaVs.Kong.csproj|solutionrelative:05.godzillavs.kong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{297B38E3-80E2-4078-9701-E1142DD6AB41}|06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\06.worldswimmingrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{297B38E3-80E2-4078-9701-E1142DD6AB41}|06.WorldSwimmingRecord\\06.WorldSwimmingRecord.csproj|solutionrelative:06.worldswimmingrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BC5768-C29A-42BB-B345-8736D959CAFB}|01.SumSeconds\\01.SumSeconds.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\01.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BC5768-C29A-42BB-B345-8736D959CAFB}|01.SumSeconds\\01.SumSeconds.csproj|solutionrelative:01.sumseconds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9BD8031-A5B1-4439-B433-55CA4EC9557F}|04.ToyShop\\04.ToyShop.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\04.toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9BD8031-A5B1-4439-B433-55CA4EC9557F}|04.ToyShop\\04.ToyShop.csproj|solutionrelative:04.toyshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66738DE1-4696-483F-B7C4-5EBED183FF20}|07.Shopping\\07.Shopping.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\07.shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66738DE1-4696-483F-B7C4-5EBED183FF20}|07.Shopping\\07.Shopping.csproj|solutionrelative:07.shopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEAE3AE-C748-4E33-A21A-78643B1A3723}|03.Time\u002B15Minutes\\03.Time\u002B15Minutes.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\03.time\u002B15minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEAE3AE-C748-4E33-A21A-78643B1A3723}|03.Time\u002B15Minutes\\03.Time\u002B15Minutes.csproj|solutionrelative:03.time\u002B15minutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E4AF84-CD5A-4A39-9F13-15CF7EFED3A0}|02.BonusScore\\02.BonusScore.csproj|c:\\pb-march 2024\\conditionalstatements_exercise\\02.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76E4AF84-CD5A-4A39-9F13-15CF7EFED3A0}|02.BonusScore\\02.BonusScore.csproj|solutionrelative:02.bonusscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\08.LunchBreak\\Program.cs",
+              "RelativeDocumentMoniker": "08.LunchBreak\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\08.LunchBreak\\Program.cs",
+              "RelativeToolTip": "08.LunchBreak\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T23:37:37.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\07.Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "07.Shopping\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\07.Shopping\\Program.cs",
+              "RelativeToolTip": "07.Shopping\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:15:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\06.WorldSwimmingRecord\\Program.cs",
+              "RelativeDocumentMoniker": "06.WorldSwimmingRecord\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\06.WorldSwimmingRecord\\Program.cs",
+              "RelativeToolTip": "06.WorldSwimmingRecord\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T21:53:23.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\05.GodzillaVs.Kong\\Program.cs",
+              "RelativeDocumentMoniker": "05.GodzillaVs.Kong\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\05.GodzillaVs.Kong\\Program.cs",
+              "RelativeToolTip": "05.GodzillaVs.Kong\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:25:40.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\04.ToyShop\\Program.cs",
+              "RelativeDocumentMoniker": "04.ToyShop\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\04.ToyShop\\Program.cs",
+              "RelativeToolTip": "04.ToyShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:22:16.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\03.Time\u002B15Minutes\\Program.cs",
+              "RelativeDocumentMoniker": "03.Time\u002B15Minutes\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\03.Time\u002B15Minutes\\Program.cs",
+              "RelativeToolTip": "03.Time\u002B15Minutes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:43:18.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\02.BonusScore\\Program.cs",
+              "RelativeDocumentMoniker": "02.BonusScore\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\02.BonusScore\\Program.cs",
+              "RelativeToolTip": "02.BonusScore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T13:03:24.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\01.SumSeconds\\Program.cs",
+              "RelativeDocumentMoniker": "01.SumSeconds\\Program.cs",
+              "ToolTip": "C:\\PB-March 2024\\ConditionalStatements_Exercise\\01.SumSeconds\\Program.cs",
+              "RelativeToolTip": "01.SumSeconds\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T12:46:41.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

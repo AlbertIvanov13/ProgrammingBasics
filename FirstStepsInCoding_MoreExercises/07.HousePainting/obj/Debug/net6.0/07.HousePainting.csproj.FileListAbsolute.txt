@@ -1,0 +1,14 @@
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.exe
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.deps.json
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.runtimeconfig.json
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.dll
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\bin\Debug\net6.0\07.HousePainting.pdb
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.AssemblyInfoInputs.cache
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.AssemblyInfo.cs
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.csproj.CoreCompileInputs.cache
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.dll
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\refint\07.HousePainting.dll
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.pdb
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\07.HousePainting.genruntimeconfig.cache
+C:\PB-March 2024\FirstStepsInCoding_MoreExercises\07.HousePainting\obj\Debug\net6.0\ref\07.HousePainting.dll

@@ -1,0 +1,14 @@
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.exe
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.deps.json
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.runtimeconfig.json
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\bin\Debug\net6.0\03.Time+15Minutes.pdb
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.AssemblyInfoInputs.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.AssemblyInfo.cs
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.csproj.CoreCompileInputs.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\refint\03.Time+15Minutes.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.pdb
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\03.Time+15Minutes.genruntimeconfig.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\03.Time+15Minutes\obj\Debug\net6.0\ref\03.Time+15Minutes.dll

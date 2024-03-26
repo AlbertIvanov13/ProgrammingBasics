@@ -1,0 +1,14 @@
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.exe
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.deps.json
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.runtimeconfig.json
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\bin\Debug\net6.0\06.WorldSwimmingRecord.pdb
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.AssemblyInfoInputs.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.AssemblyInfo.cs
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.csproj.CoreCompileInputs.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\refint\06.WorldSwimmingRecord.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.pdb
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\06.WorldSwimmingRecord.genruntimeconfig.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\06.WorldSwimmingRecord\obj\Debug\net6.0\ref\06.WorldSwimmingRecord.dll

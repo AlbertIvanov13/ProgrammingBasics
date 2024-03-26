@@ -1,0 +1,14 @@
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.exe
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.deps.json
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.runtimeconfig.json
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.dll
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\bin\Debug\net6.0\06.SpeedInfo.pdb
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.AssemblyInfoInputs.cache
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.AssemblyInfo.cs
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.dll
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\refint\06.SpeedInfo.dll
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.pdb
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\06.SpeedInfo.genruntimeconfig.cache
+C:\PB-March 2024\ConditionalStatements_Lab\06.SpeedInfo\obj\Debug\net6.0\ref\06.SpeedInfo.dll

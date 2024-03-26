@@ -1,0 +1,14 @@
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.exe
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.deps.json
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.runtimeconfig.json
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\bin\Debug\net6.0\07.Shopping.pdb
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.AssemblyInfoInputs.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.AssemblyInfo.cs
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.csproj.CoreCompileInputs.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\refint\07.Shopping.dll
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.pdb
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\07.Shopping.genruntimeconfig.cache
+C:\PB-March 2024\ConditionalStatements_Exercise\07.Shopping\obj\Debug\net6.0\ref\07.Shopping.dll
